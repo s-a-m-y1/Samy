@@ -1,6 +1,10 @@
 #
 <h1 align="center">Hi there 👋, I'm Samy</h1>
 <p align="center">
+  <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Technical Lead at <a href="https://fliki.ai/">Fliki.AI
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFBF&center=true&width=435&lines=Aspiring+Front-End+Developer;Learning+Cpp%2C+Python%2C+English;Determined+to+grow+every+day+%F0%9F%8C%9F" alt="Typing SVG" />
 </p>
 
