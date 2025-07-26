@@ -1,4 +1,4 @@
-
+#
 <h1 align="center">Hi there 👋, I'm Samy</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFBF&center=true&width=435&lines=Aspiring+Front-End+Developer;Learning+Cpp%2C+Python%2C+English;Determined+to+grow+every+day+%F0%9F%8C%9F" alt="Typing SVG" />
